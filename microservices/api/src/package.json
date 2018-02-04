@@ -1,0 +1,19 @@
+{
+  "name": "alphaman-task-two-upload",
+  "version": "1.0.0",
+  "description": "2nd task (To upload the project to hasura)",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "xXAlphaManXx",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "axios": "^0.17.1",
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.2",
+    "hbs": "^4.0.1"
+  }
+}

@@ -1,0 +1,7 @@
+- alias: hasura
+  config:
+    configmap: controller-conf
+    namespace: grade91-hasura
+  data: null
+  kubeContext: grade91
+  name: grade91
